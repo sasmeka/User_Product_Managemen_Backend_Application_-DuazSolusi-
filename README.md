@@ -7,15 +7,15 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/sasmeka/backend_coffeshop_with_go">
-    <img src="https://camo.githubusercontent.com/72d4e416bd802a1abc16d86e9d7d7a62318fca378d103f97fda207ef7d61463d/68747470733a2f2f7974332e67677068742e636f6d2f7974632f414b65644f4c543759443978365069522d4366624262464333777a3257617469495a4672495f4930762d366b3d733930302d632d6b2d63307830306666666666662d6e6f2d726a" alt="Logo" width="80" height="80">
+  <a href="https://github.com/sasmeka/User_Product_Managemen_Backend_Application_-DuazSolusi-">
+    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fduaz-solusi.co.id%2F2019%2Fimg%2Flogo1.png&tbnid=mTkDgGbFq1xWIM&vet=12ahUKEwjV-szloraCAxX2a2wGHSmTBZgQMygBegQIARBA..i&imgrefurl=https%3A%2F%2Fwww.duaz-solusi.co.id%2F&docid=3TUDqKWigHL6TM&w=100&h=100&q=duaz%20solusi&ved=2ahUKEwjV-szloraCAxX2a2wGHSmTBZgQMygBegQIARBA" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">User Product Managemen Back-End Application (PT. Duaz Solusi)</h3>
 
   <p align="center">
     <br />
-    <a href="https://github.com/sasmeka/backend_coffeshop_with_go"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/sasmeka/User_Product_Managemen_Backend_Application_-DuazSolusi-"><strong>Explore the docs »</strong></a>
     <br />
   </p>
 </div>
@@ -79,7 +79,7 @@ This project worker can follow the steps below:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/sasmeka/backend_coffeshop_with_go.git
+   git clone https://github.com/sasmeka/User_Product_Managemen_Backend_Application_-DuazSolusi-.git
    ```
 2. Install NPM packages
    ```sh
@@ -115,16 +115,16 @@ This project worker can follow the steps below:
 
 Verdi Sasmeka - [@vrd_meka](https://twitter.com/vrd_meka) - verdysas@gmail.com
 
-Project Link: [https://github.com/sasmeka/backend_coffeshop_with_go](https://github.com/sasmeka/backend_coffeshop_with_go)
+Project Link: [https://github.com/sasmeka/User_Product_Managemen_Backend_Application_-DuazSolusi-](https://github.com/sasmeka/User_Product_Managemen_Backend_Application_-DuazSolusi-)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/sasmeka/Tickitz_Backend.svg?style=for-the-badge
-[contributors-url]: https://github.com/sasmeka/backend_coffeshop_with_go/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/sasmeka/Tickitz_Backend.svg?style=for-the-badge
-[forks-url]: https://github.com/sasmeka/backend_coffeshop_with_go/network/members
+[contributors-shield]: https://img.shields.io/github/contributors/sasmeka/User_Product_Managemen_Backend_Application_-DuazSolusi-.svg?style=for-the-badge
+[contributors-url]: https://github.com/sasmeka/User_Product_Managemen_Backend_Application_-DuazSolusi-/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/sasmeka/User_Product_Managemen_Backend_Application_-DuazSolusi-.svg?style=for-the-badge
+[forks-url]: https://github.com/sasmeka/User_Product_Managemen_Backend_Application_-DuazSolusi-/network/members
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/verdi-sasmeka-62b91b132/
 [go.js]: https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white
