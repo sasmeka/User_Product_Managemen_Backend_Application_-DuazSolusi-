@@ -8,7 +8,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/sasmeka/User_Product_Managemen_Backend_Application_-DuazSolusi-">
-    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fduaz-solusi.co.id%2F2019%2Fimg%2Flogo1.png&tbnid=mTkDgGbFq1xWIM&vet=12ahUKEwjV-szloraCAxX2a2wGHSmTBZgQMygBegQIARBA..i&imgrefurl=https%3A%2F%2Fwww.duaz-solusi.co.id%2F&docid=3TUDqKWigHL6TM&w=100&h=100&q=duaz%20solusi&ved=2ahUKEwjV-szloraCAxX2a2wGHSmTBZgQMygBegQIARBA" alt="Logo" width="80" height="80">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.duaz-solusi.co.id%2F&psig=AOvVaw3MZuPIkyg10LxZe3txyi9K&ust=1699597119036000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDG0eWitoIDFQAAAAAdAAAAABAE" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">User Product Managemen Back-End Application (PT. Duaz Solusi)</h3>
