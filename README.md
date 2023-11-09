@@ -49,7 +49,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project aims to build a Rest-API built using Go-lang and other supporting modules which was completed in 2 weeks. This project is limited by the task requirements given by the trainer. The features include login, register, service user, product, size, and delivery method.
+Golang Backend Test from PT. Duaz Solutions.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
