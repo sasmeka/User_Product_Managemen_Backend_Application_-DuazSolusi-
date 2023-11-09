@@ -85,7 +85,7 @@ This project worker can follow the steps below:
    ```sh
    go mod download
    ```
-3. Please configure .env
+3. Please change the name of the .env.example file to .env and configure the .env according to your needs.
 4. Please install [golang-migrate](https://github.com/golang-migrate/migrate/tree/master/cmd/migrate) to migrate the database. command to migrate the database as follows.
    ```sh
    migrate -path ./migrations -database "postgresql://user:pass@localhost/namedatabase?port=5432&sslmode=disable&search_path=public" -verbose up
