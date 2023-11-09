@@ -90,7 +90,10 @@ This project worker can follow the steps below:
    ```sh
    go run ./cmd/main.go
    ```
-5. 
+5. Below are comments to run all unit tests
+   ```sh
+   go test -v ./...
+   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -100,13 +103,10 @@ This project worker can follow the steps below:
 ## Usage
 
 1. Install [postman](https://www.postman.com/)
-2. Visit the following link to export Coffee Shop postman workspace 
-   ```sh
-   https://www.postman.com/avionics-meteorologist-14374576/workspace/tickitz/collection/22380820-2a8492cd-b607-4943-b31d-9d8c50cc4543?action=share&creator=22380820
-   ```
-3. Import the workspace that you already have in stage 2 into the postman application
-4. Go to Coffee Shop workspace -> auth -> register. Do registration and login.
-5. Please try to do get data with the token. To insert a token, you can do it on the authorization tab and select Bearer Token
+2. Download file workspace<a id="raw-url" href="https://github.com/sasmeka/User_Product_Managemen_Backend_Application_-DuazSolusi-/Product_DuazSolusi.postman_collection.json">Product_DuazSolusi.postman_collection.json</a>
+3. Import the workspace into your Postman application.
+4. Go to the workspace you imported -> auth -> register. Do registration and login.
+5. Please try to get data on the endpoint that requires a login/token. To insert a token, you can do it on the authorization tab and select Bearer Token
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
