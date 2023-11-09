@@ -7,7 +7,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/sasmeka/User_Product_Managemen_Backend_Application_-DuazSolusi-">
+  <a href="https://github.com/sasmeka/user_product_management_duazsolusi">
     <img src="duaz-logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -15,7 +15,7 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/sasmeka/User_Product_Managemen_Backend_Application_-DuazSolusi-"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/sasmeka/user_product_management_duazsolusi"><strong>Explore the docs »</strong></a>
     <br />
   </p>
 </div>
@@ -79,7 +79,7 @@ This project worker can follow the steps below:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/sasmeka/User_Product_Managemen_Backend_Application_-DuazSolusi-.git
+   git clone https://github.com/sasmeka/user_product_management_duazsolusi.git
    ```
 2. Install packages
    ```sh
@@ -108,7 +108,7 @@ This project worker can follow the steps below:
 ## Usage
 
 1. Install [postman](https://www.postman.com/)
-2. Download file workspace [Product_DuazSolusi.postman_collection.json](https://github.com/sasmeka/User_Product_Managemen_Backend_Application_-DuazSolusi-/raw/main/Product_DuazSolusi.postman_collection.json)
+2. Download file workspace [Product_DuazSolusi.postman_collection.json](https://github.com/sasmeka/user_product_management_duazsolusi/raw/main/Product_DuazSolusi.postman_collection.json)
 3. Import the workspace into your Postman application.
 4. Go to the workspace you imported -> auth -> register. Do registration and login.
 5. Please try to get data on the endpoint that requires a login/token. To insert a token, you can do it on the authorization tab and select Bearer Token
@@ -120,16 +120,16 @@ This project worker can follow the steps below:
 
 Verdi Sasmeka - [@vrd_meka](https://twitter.com/vrd_meka) - verdysas@gmail.com
 
-Project Link: [https://github.com/sasmeka/User_Product_Managemen_Backend_Application_-DuazSolusi-](https://github.com/sasmeka/User_Product_Managemen_Backend_Application_-DuazSolusi-)
+Project Link: [https://github.com/sasmeka/user_product_management_duazsolusi](https://github.com/sasmeka/user_product_management_duazsolusi)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/sasmeka/User_Product_Managemen_Backend_Application_-DuazSolusi-.svg?style=for-the-badge
-[contributors-url]: https://github.com/sasmeka/User_Product_Managemen_Backend_Application_-DuazSolusi-/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/sasmeka/User_Product_Managemen_Backend_Application_-DuazSolusi-.svg?style=for-the-badge
-[forks-url]: https://github.com/sasmeka/User_Product_Managemen_Backend_Application_-DuazSolusi-/network/members
+[contributors-shield]: https://img.shields.io/github/contributors/sasmeka/user_product_management_duazsolusi.svg?style=for-the-badge
+[contributors-url]: https://github.com/sasmeka/user_product_management_duazsolusi/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/sasmeka/user_product_management_duazsolusi.svg?style=for-the-badge
+[forks-url]: https://github.com/sasmeka/user_product_management_duazsolusi/network/members
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/verdi-sasmeka-62b91b132/
 [go.js]: https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white
